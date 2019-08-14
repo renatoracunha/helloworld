@@ -1,5 +1,5 @@
 #helloworld<br/>
-universidade dos guararapes - UNIFG<BR/>
+Centro Universitário dos Guararapes - UNIFG<BR/>
 Graduação em ciências da computação - CCO<br/>
 Disciplina de pesquisa, ordenação e armazenamento<br/>
 Professor MSc Renan Costa Alencar<br/>
